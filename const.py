@@ -1,0 +1,5 @@
+STATION_COUNT_HEAD = "station_count_"
+STATION_SET_KEY = "station_set_key"
+PERSON_LAST_ARRIVE_HASH_KEY = "person_last_arrive_hash_key"
+STREAM_FROM_HEAD = "stream_from_"
+TIME_STYLE = "%Y-%m-%d %H:%M:%S"
